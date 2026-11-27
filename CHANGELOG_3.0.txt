@@ -1,0 +1,10 @@
+CLASSY STORE PRO 3.0
+- Hierarchical categories: parent and child categories, with ordering and editing.
+- Multiple product gallery uploads with automatic WebP compression.
+- Product SKU and featured-product controls.
+- Banner ordering and per-slide rotation duration.
+- Direct MP4/WebM reel upload to a dedicated Supabase Storage bucket.
+- Reel cover image upload with automatic WebP conversion.
+- Shop the Look ordering controls.
+- Updated PWA cache version and navigation caching strategy.
+- Added additive Supabase migration for existing 2.0 databases.

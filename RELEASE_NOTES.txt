@@ -1,0 +1,8 @@
+CLASSY STORE PRO — FINAL
+- Unified Supabase setup script.
+- Secure server-side checkout RPC (DB-calculated prices and stock validation).
+- Cart is retained if order submission fails.
+- Product gallery thumbnails and size/color selectors.
+- Fixed plural table names for admin deletion.
+- Added circular-category ancestry validation and CSV value validation.
+- Documented feature boundaries and secure admin setup.

@@ -1,0 +1,1 @@
+-- SUPERSEDED: use SUPABASE_SETUP.sql for a new project.

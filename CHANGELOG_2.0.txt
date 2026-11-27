@@ -1,0 +1,10 @@
+CLASSY STORE PRO 2.0
+- Enhanced product search and category/size/color filtering.
+- Wishlist persisted locally per browser.
+- Rule-based product recommendations (not generative AI).
+- Initial order capture, WhatsApp handoff, and admin order status management.
+- CSV bulk product import template.
+- Analytics event foundation.
+- Product colors, tags, SKU, featured fields.
+- PWA manifest and offline shell caching.
+- Updated Supabase RLS schema and admin interface.
